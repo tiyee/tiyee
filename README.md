@@ -6,4 +6,4 @@
     3. Angemon:一个c++编写的跨平台网络库，reactor模式，支持对象池和线程池 [angemon](github.com/tiyee/angemon)
     4. FileWatcher:一个c++编写的跨平台高性能文件监控程序。 [FileWather](github.com/tiyee/FileWatcher)
 * 创业项目   
-    1. 一个会员制在线学习直播项目 [前途问鹿](https://tiyee.cn/8bu2)
+    1. 一个会员制在线学习直播项目。本人负责技术规划，运维，工程管理，服务端开发等工作。 [前途问鹿](https://tiyee.cn/8bu2)
