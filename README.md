@@ -1,4 +1,4 @@
-* 经历：`API`  `数据处理` `业务系统` `后端中间件/架构`
+* 经历：`API`  `数据处理` `业务系统` `后端中间件/架构` `从0到1`
 * 技能: `Python` `PHP` `Go` `C++` `Js`
 * 开源项目   
     1. PhpRedisManage: 一款redis管理工具，后端php,前端采用angular+purecss [PhpRedisManage](https://github.com/tiyee/PhpRedisManage)
